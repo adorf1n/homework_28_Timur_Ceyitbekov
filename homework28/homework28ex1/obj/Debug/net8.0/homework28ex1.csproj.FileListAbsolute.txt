@@ -1,0 +1,14 @@
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\bin\Debug\net8.0\homework28ex1.exe
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\bin\Debug\net8.0\homework28ex1.deps.json
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\bin\Debug\net8.0\homework28ex1.runtimeconfig.json
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\bin\Debug\net8.0\homework28ex1.dll
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\bin\Debug\net8.0\homework28ex1.pdb
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\homework28ex1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\homework28ex1.AssemblyInfoInputs.cache
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\homework28ex1.AssemblyInfo.cs
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\homework28ex1.csproj.CoreCompileInputs.cache
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\homework28ex1.dll
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\refint\homework28ex1.dll
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\homework28ex1.pdb
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\homework28ex1.genruntimeconfig.cache
+C:\Users\SystemX\source\repos\homework28ex1\homework28ex1\obj\Debug\net8.0\ref\homework28ex1.dll
